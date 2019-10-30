@@ -1,0 +1,12 @@
+// program: lintasan.cpp
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main() {
+    double sudut = 40;
+    double kecepatan = 32;
+
+    double radian = sudut * 3.14 / 180;
+
+    double}
